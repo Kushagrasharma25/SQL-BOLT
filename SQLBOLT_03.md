@@ -1,4 +1,4 @@
-# SQL BOLT
+# SQL BOLT EXERCISE 03
 ### 01- Find all the Toy Story movies
 
 ~~~sql
