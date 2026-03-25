@@ -1,4 +1,4 @@
-#SQL BOLT
+# SQL BOLT EXERCISE 02
 ### 01 Find the movie with a row id of 6
 
 ~~~sql
