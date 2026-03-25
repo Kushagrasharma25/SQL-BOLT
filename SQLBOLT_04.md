@@ -1,4 +1,4 @@
-# SQL BOLT
+# SQL BOLT EXERCISE 04
 ### 01- List all directors of Pixar movies (alphabetically), without duplicates
 
 ~~~sql
